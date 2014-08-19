@@ -1,0 +1,4 @@
+MerchantsCryptoPledge
+=====================
+
+Merchants' currency pledge.
