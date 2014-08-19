@@ -1,0 +1,11 @@
+[Company name] believes that cryptocurrencies will make the world a better place in the long run!
+We believe that it's dishonest for a merchant to announce that they accept cryptocurrency, if in reality they only accept fiat for cryptocurrency, through automatic conversion by a payment processor.
+
+THEREFORE WE PLEDGE:
+
+* NOT to use automatic conversion to fiat services, offered by the crypto-payment processors.
+* To convert any cryptocurrency we earn into fiat only when needed to finance our operations.
+* To pay any vendor who agrees to it, through a mutually-acceptable cryptocurrency.
+* To pay any employee or contractor who agree to it, through a mutually-acceptable cryptocurrency.
+* If a refund is necessary, to refund our customers the same amount of cryptocurrency they originally paid us, rather than an amount based on the current fiat exchange rate.
+* To add to this pledge, as needed, in order to advance the adoption, viability, and success of cryptocurrency worldwide.
